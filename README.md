@@ -6,4 +6,7 @@ This repo is a template for following along with the Lisp tutorial I am writing.
 
 In the project root, run:
 
-`npm run dev`
+```
+npm install
+npm run dev
+```
